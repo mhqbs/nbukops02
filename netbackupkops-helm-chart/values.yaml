@@ -1,7 +1,7 @@
 netbackupkops:
   containers:
     manager:
-      image: netbackupkops-container-image
+      image: asia-southeast2-docker.pkg.dev/joey-dev-project/dev-veritas/netbackupkops:netbackupkops_10.4_0018
       resources:
         limits:
           cpu: 150m
@@ -22,13 +22,13 @@ nbsetup:
   replicas: 1
   containers:
     netbackup_config_pod:
-      nbprimaryserver:
-      nbsha256fingerprint:
-      k8sCluster:
-      k8sPort:
-      datamoverimage:
+      nbprimaryserver: PRDNBUMASTER
+      nbsha256fingerprint: B0:AB:84:DC:00:DA:08:8A:BA:B1:B1:FF:0A:1D:DC:D4:0A:C3:F7:5C:DB:32:50:62:03:7F:94:3D:7C:06:56:E5
+      k8sCluster: dev-id-bks-gke-02
+      k8sPort: 6443
+      datamoverimage: asia-southeast2-docker.pkg.dev/joey-dev-project/dev-veritas/netbackupdatamover:dev-10.4
       logLevel: INFO
-      storageclassblock:
-      volumesnapshotclassblock:
-      storageclassfilesystem:
-      volumesnapshotclassfilesystem:
+      storageclassblock: standard-rwo
+      volumesnapshotclassblock: csi-pd-hostpath-snapclass
+      storageclassfilesystem: standard-rwo
+      volumesnapshotclassfilesystem: csi-pd-hostpath-snapclass
