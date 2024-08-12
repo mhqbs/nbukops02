@@ -1,0 +1,34 @@
+netbackupkops:
+  containers:
+    manager:
+      image: netbackupkops-container-image
+      resources:
+        limits:
+          cpu: 150m
+          memory: 600Mi
+        requests:
+          cpu: 100m
+          memory: 500Mi
+  kopsPvcStorageClass:
+  kopsPvcSize: 10Gi
+  pvMountPath: /usr/openv
+  imagePullSecrets: []
+  # Example to add imagePullSecrets
+  # imagePullSecrets:
+  # - name: netbackupkops-docker-cred
+  fipsMode: DISABLE
+  acceleratorTracklogPvcStorageClass: None
+nbsetup:
+  replicas: 1
+  containers:
+    netbackup_config_pod:
+      nbprimaryserver:
+      nbsha256fingerprint:
+      k8sCluster:
+      k8sPort:
+      datamoverimage:
+      logLevel: INFO
+      storageclassblock:
+      volumesnapshotclassblock:
+      storageclassfilesystem:
+      volumesnapshotclassfilesystem:
