@@ -1,0 +1,482 @@
+
+                   VERITAS SOFTWARE LICENSE AGREEMENT
+
+VERITAS TECHNOLOGIES LLC AND/OR ITS AFFILIATES ("VERITAS") IS WILLING TO LICENSE
+THE LICENSED SOFTWARE TO YOU AS THE INDIVIDUAL, THE COMPANY, OR THE LEGAL ENTITY
+THAT WILL BE UTILIZING THE LICENSED SOFTWARE (REFERENCED BELOW AS "YOU" OR
+"YOUR") ONLY ON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS OF THIS VERITAS
+SOFTWARE LICENSE AGREEMENT AND THE PRODUCT USE RIGHTS SUPPLEMENT (AS DEFINED
+BELOW) (COLLECTIVELY, THE "LICENSE AGREEMENT"). READ THE TERMS AND CONDITIONS OF
+THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THE LICENSED SOFTWARE. THIS IS A
+LEGAL AND ENFORCEABLE CONTRACT BETWEEN YOU AND VERITAS. BY OPENING THE LICENSED
+SOFTWARE PACKAGE, BREAKING THE LICENSED SOFTWARE SEAL, CLICKING THE "I AGREE"
+OR "YES" BUTTON, OR OTHERWISE INDICATING ASSENT ELECTRONICALLY, OR LOADING THE
+LICENSED SOFTWARE OR OTHERWISE USING THE LICENSED SOFTWARE, YOU AGREE TO THE
+TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT. IF YOU DO NOT AGREE TO THESE
+TERMS AND CONDITIONS, CLICK THE "I DO NOT AGREE" OR "NO" BUTTON OR OTHERWISE
+INDICATE REFUSAL AND MAKE NO FURTHER USE OF THE LICENSED SOFTWARE. UNLESS
+OTHERWISE DEFINED HEREIN, CAPITALIZED TERMS WILL HAVE THE MEANING GIVEN IN THE
+"DEFINITIONS" SECTION OF THIS LICENSE AGREEMENT AND SUCH CAPITALIZED TERMS MAY
+BE USED IN THE SINGULAR OR IN THE PLURAL, AS THE CONTEXT REQUIRES.
+
+1.	DEFINITIONS.
+
+"Collected Data" means certain information which Veritas may collect, retain,
+disclose and use in connection with Your use of the Licensed Software and may
+include, but is not limited to, personally identifiable information about You,
+Your employees, agents or contractors acting on Your behalf, Your devices or
+systems or Your Licensed Software usage.
+
+"Documentation" means the user documentation Veritas provides with the Licensed
+Software.
+
+"License Instrument" means one or more of the following applicable documents
+which further defines Your license rights to the Licensed Software: a Veritas
+license certificate or a similar license document issued by Veritas, or a
+written agreement between You and Veritas, that accompanies, precedes or follows
+this License Agreement.
+
+"Licensed Software" means the Veritas software product, in object code form,
+accompanying this License Agreement, including any Documentation included in, or
+provided for use with, such software or that accompanies this License Agreement.
+
+"Perpetual" means a perpetual license grant that provides You with the right to
+use the Licensed Software in perpetuity.  You always retain the right to use the
+Licensed Software subject to the terms and conditions of this License Agreement.
+
+"Product Use Rights" means usage rights, restrictions and terms set forth in the
+Product Use Rights Supplement.
+
+"Product Use Rights Supplement" means the document which provides usage rights,
+restrictions and terms specific to the Licensed Software which may be found at
+or accessed through https://www.veritas.com/about/legal/license-agreements. Such
+Product Use Rights Supplement is incorporated herein by reference and is an
+integral part of this License Agreement.
+
+"Subscription Software" means Licensed Software licensed to You on a
+non-perpetual (term-limited) basis as indicated in the applicable License
+Instrument.  If the Licensed Software is licensed by You on such non-perpetual
+basis, then Your license to use the Licensed Software shall terminate at the
+end of the applicable license term or period.
+
+"Support Certificate" means the certificate sent by Veritas confirming Your
+purchase of the applicable Veritas maintenance/support for the Licensed
+Software.
+
+"Update" means an update, fix or patch to the Licensed Software.
+
+"Upgrade" means any version of the Licensed Software that has been made
+generally available and which replaces the prior version of the Licensed
+Software on Veritas' price list pursuant to Veritas' then-current upgrade
+policies.
+
+"Use Level" means the license use meter or model (which may include operating
+system, hardware system, application or machine tier limitations, if applicable)
+by which Veritas measures, prices and licenses the right to use the Licensed
+Software, in effect at the time an order is placed for such Licensed Software,
+as indicated in this License Agreement and the applicable License Instrument.
+
+2.	LICENSE GRANT. Subject to Your compliance with the terms and conditions
+of this License Agreement, Veritas grants to You the following rights: (i) a
+non-exclusive, non-transferable (except as stated otherwise in Section 18.1)
+license to use the Licensed Software solely in support of Your internal business
+operations in the quantities and at the Use Levels described in this License
+Agreement, including the applicable Product Use Rights, and the applicable
+License Instrument, within the country in which You are located as indicated by
+Your address set forth on the applicable License Instrument (except as otherwise
+authorized by Veritas or required by law); and (ii) the right to make a single
+uninstalled copy of the Licensed Software for archival purposes which You may
+use and install for disaster-recovery purposes (i.e. where the primary
+installation of the Licensed Software becomes unavailable for use). You may
+exercise Your rights through consultant(s) and outsourcer(s) ("Consultants")
+in order to deliver services to You, provided You ensure Your Consultants
+adhere to the terms of this License Agreement, and You assume full
+responsibility for the actions of Your Consultants in connection with such use.
+
+3.	 TERM. The term of the Licensed Software license granted under this
+License Agreement shall be Perpetual (subject to Section 17) unless stated
+otherwise in the Product Use Rights Supplement or unless You have obtained a
+license to Subscription Software for the period of time indicated on the
+applicable License Instrument. If You have obtained a license to Subscription
+Software, Your rights to use such Subscription Software shall end on the
+applicable end date as indicated on the applicable License Instrument and You
+shall cease use of the Subscription Software as of such applicable end date.
+
+4.	LICENSE RESTRICTIONS. You may not, without Veritas' prior written
+consent, conduct, cause or permit the: (i) use, copying, modification, rental,
+lease, sublease, sublicense, or transfer of the Licensed Software except as
+expressly provided in this License Agreement; (ii) creation of any derivative
+works based on the Licensed Software; (iii) reverse engineering, disassembly, or
+decompiling of the Licensed Software (except that You may decompile the Licensed
+Software for the purposes of interoperability only to the extent permitted by
+and subject to strict compliance under applicable law); (iv) use of the Licensed
+Software in connection with service bureau, facility management, timeshare,
+service provider or like activity whereby You operate or use the Licensed
+Software for the benefit of a third party; (v) use of the Licensed Software by
+any party other than You or Your Consultants; (vi) use of a later version of the
+Licensed Software other than the version that accompanies this License Agreement
+unless You have separately acquired the right to use such later version through
+a License Instrument or Support Certificate; nor (vii) use of the Licensed
+Software above the quantity and Use Level that have been licensed to You under
+this License Agreement or the applicable License Instrument.
+
+5.	OWNERSHIP/TITLE. The Licensed Software is the proprietary property of
+Veritas or its licensors and is protected by copyright law. Veritas and its
+licensors retain any and all rights, title and interest in and to the Licensed
+Software, including in all copies, improvements, enhancements, modifications and
+derivative works of the Licensed Software. Your rights to use the Licensed
+Software shall be limited to those expressly granted in this License Agreement.
+All rights not expressly granted to You are retained by Veritas and/or its
+licensors.
+
+6.	UPGRADES/CROSS-GRADES; UPDATES. Upgrades of the Licensed Software may
+only be obtained in a quantity no greater than Your then-current quantity of
+Subscription Software entitlements or Licensed Software entitlements under
+maintenance/support, as applicable, unless otherwise provided by Veritas. An
+Upgrade to an existing license shall not be deemed to increase the number of
+licenses which You are authorized to use. Additionally, if You upgrade a
+Licensed Software license, or purchase a Licensed Software license to
+cross-grade an existing license (i.e., to increase its functionality, and/or
+transfer it to a new operating system, hardware tier or licensing meter), then
+Veritas issues the applicable Licensed Instrument based on the understanding
+that You agree to cease using the license that was replaced. Any such Upgrade
+or cross-grade is provided under Veritas' policies in effect at the time of
+order. Upgrades and Updates shall be subject to any terms and conditions
+provided with such Upgrades and Updates. If no terms and conditions are
+provided, then Upgrades and Updates are subject to this License Agreement.
+
+7.	 LIMITED WARRANTY.
+
+7.1.	MEDIA WARRANTY. If Veritas provides the Licensed Software to You on
+tangible media, Veritas warrants that the magnetic media upon which the Licensed
+Software is recorded will not be defective under normal use, for a period of
+ninety (90) days from delivery. Veritas will replace any defective media
+returned to Veritas within the warranty period at no charge to You. The above
+warranty is inapplicable in the event the Licensed Software media becomes
+defective due to unauthorized use of the Licensed Software. THE FOREGOING IS
+YOUR SOLE AND EXCLUSIVE REMEDY FOR VERITAS' BREACH OF THIS WARRANTY.
+
+7.2.	PERFORMANCE WARRANTY. Veritas warrants that the Licensed Software, as
+delivered by Veritas and when used in accordance with the Documentation, will
+substantially conform to the Documentation for a period of ninety (90) days from
+delivery. If the Licensed Software does not comply with this warranty and such
+non-compliance is reported by You to Veritas within the ninety (90) day warranty
+period, Veritas will do one of the following, selected at Veritas' reasonable
+discretion: either (i) repair the Licensed Software, (ii) replace the Licensed
+Software with software of substantially the same functionality, or (iii)
+terminate this License Agreement and refund the relevant license fees paid to
+Veritas, directly or indirectly, and provide a pro-rated refund of any relevant
+unused, prepaid maintenance/support fees, where applicable, paid to Veritas,
+directly or indirectly, for such non-compliant Licensed Software. The above
+warranty specifically excludes defects resulting from accident, abuse,
+unauthorized repair, modifications or enhancements, or misapplication. THE
+FOREGOING IS YOUR SOLE AND EXCLUSIVE REMEDY FOR VERITAS' BREACH OF THIS
+WARRANTY.
+
+7.3.	WARRANTY DISCLAIMERS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+THE WARRANTIES SET FORTH IN SECTIONS 7.1 AND 7.2 ARE YOUR EXCLUSIVE WARRANTIES
+AND ARE IN LIEU OF ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING,
+BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY
+QUALITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT OF INTELLECTUAL
+PROPERTY RIGHTS. VERITAS MAKES NO WARRANTIES OR REPRESENTATIONS THAT THE
+LICENSED SOFTWARE, UPDATES OR UPGRADES WILL MEET YOUR REQUIREMENTS OR THAT
+OPERATION OR USE OF THE LICENSED SOFTWARE, UPDATES, AND UPGRADES WILL BE
+UNINTERRUPTED OR ERROR-FREE. YOU MAY HAVE OTHER WARRANTY RIGHTS, WHICH MAY VARY
+FROM STATE TO STATE AND COUNTRY TO COUNTRY.
+
+8.	 INDEMNITY.
+
+8.1.	Veritas shall defend, indemnify and hold You harmless from any claim
+asserting that the Licensed Software infringes any intellectual property right
+of a third party, and shall pay any and all damages awarded against You by a
+court and actually paid by You, or agreed to in settlement by Veritas and
+attributable to such claim. Veritas' obligations under this provision are
+subject to You doing the following: notifying Veritas of the claim in writing,
+as soon as You learn of it; providing Veritas all reasonable assistance and
+information to enable Veritas to perform its duties under this Section;
+allowing Veritas sole control of the defense and all related settlement
+negotiations; and not having compromised or settled such claim. Notwithstanding
+the foregoing, You may participate at Your expense in the defense of any such
+claim with Your own counsel, provided Veritas retains sole control of the suit.
+You have the right to approve any settlement that affirmatively places on You
+an obligation that has a material adverse effect on You other than the
+obligations to cease using the affected Licensed Software or to pay sums
+indemnified hereunder. Such approval shall not be unreasonably withheld.
+
+8.2.	If the Licensed Software is found to infringe, or if Veritas
+determines in its sole opinion that it is likely to be found to infringe, then
+Veritas shall either (a) obtain for You the right to continue to use the
+Licensed Software; or (b) modify the Licensed Software so as to make such
+Licensed Software non-infringing, or replace it with a non-infringing equivalent
+substantially comparable in functionality, in which case You shall stop using
+any infringing version of the Licensed Software; or (if Veritas determines in
+its sole opinion that (a) and/or (b) are not commercially reasonable), (c)
+terminate Your rights and Veritas' obligations under this License Agreement
+with respect to such Licensed Software, and refund to You the license fee paid
+to Veritas, directly or indirectly, for the relevant Licensed Software, and
+provide a pro-rated refund of any unused, prepaid maintenance/support fees paid
+to Veritas, directly or indirectly, for the applicable Licensed Software.
+
+8.3.	Notwithstanding the above, Veritas will have no liability for any
+infringement claim to the extent that it is based upon: (a) modification of the
+Licensed Software other than by Veritas; (b) combination, use, or operation of
+the Licensed Software with products not specifically authorized by Veritas to be
+combined with the Licensed Software as indicated in the Documentation; (c) use
+of the Licensed Software other than in accordance with the Documentation and
+this License Agreement; or (d) Your continued use of infringing Licensed
+Software after Veritas, for no additional charge, supplies or offers to supply
+modified or replacement non-infringing Licensed Software as contemplated under
+8.2(b) above.
+
+THIS SECTION 8 STATES YOUR SOLE AND EXCLUSIVE REMEDY AND VERITAS' SOLE AND
+EXCLUSIVE LIABILITY REGARDING INFRINGEMENT OR MISAPPROPRIATION OF ANY
+INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY.
+
+9.	LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
+LAW AND REGARDLESS OF WHETHER ANY REMEDY SET FORTH HEREIN FAILS OF ITS ESSENTIAL
+PURPOSE, IN NO EVENT WILL VERITAS OR ITS LICENSORS, RESELLERS, SUPPLIERS OR
+AGENTS BE LIABLE TO YOU FOR (i) ANY COSTS OF PROCUREMENT OF SUBSTITUTE OR
+REPLACEMENT GOODS AND SERVICES, LOSS OF PROFITS, LOSS OF USE, LOSS OF OR
+CORRUPTION TO DATA, BUSINESS INTERRUPTION, LOSS OF PRODUCTION, LOSS OF REVENUES,
+LOSS OF CONTRACTS, LOSS OF GOODWILL, OR ANTICIPATED SAVINGS OR WASTED MANAGEMENT
+AND STAFF TIME; OR (ii) ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL OR INDIRECT
+DAMAGES WHETHER ARISING DIRECTLY OR INDIRECTLY OUT OF THIS LICENSE AGREEMENT,
+EVEN IF VERITAS OR ITS LICENSORS, RESELLERS, SUPPLIERS OR AGENTS HAS BEEN
+ADVISED SUCH DAMAGES MIGHT OCCUR.  IN NO CASE SHALL VERITAS' LIABILITY EXCEED
+(1) THE FEES PAID OR OWED TO VERITAS, DIRECTLY OR INDIRECTLY, FOR THE LICENSED
+SOFTWARE LICENSED ON A PERPETUAL BASIS GIVING RISE TO THE CLAIM, OR (2) THE FEES
+PAID OR OWED TO VERITAS, DIRECTLY OR INDIRECTLY, DURING THE PRECEDING TWELVE
+(12) MONTH PERIOD FOR THE SUBSCRIPTION SOFTWARE GIVING RISE TO THE CLAIM.
+NOTHING IN THIS AGREEMENT SHALL OPERATE SO AS TO EXCLUDE OR LIMIT VERITAS'
+LIABILITY TO YOU FOR DEATH OR PERSONAL INJURY ARISING OUT OF NEGLIGENCE OR FOR
+ANY OTHER LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED BY LAW. THE DISCLAIMERS
+AND LIMITATIONS SET FORTH ABOVE WILL APPLY REGARDLESS OF WHETHER OR NOT YOU
+ACCEPT THE LICENSED SOFTWARE, UPDATES OR UPGRADES.
+
+10.	MAINTENANCE/SUPPORT. Veritas has no obligation under this License
+Agreement to provide maintenance/support for the Licensed Software purchased on
+a Perpetual basis. Subscription Software will include maintenance/support as
+specified in the applicable License Instrument. Any maintenance/support
+purchased for or included with the Licensed Software is subject to Veritas'
+then-current maintenance/support policies.
+
+11.	SOFTWARE EVALUATION. If the Licensed Software is provided to You for
+evaluation purposes and You have an evaluation agreement with Veritas for the
+Licensed Software, Your rights to evaluate the Licensed Software will be
+pursuant to the terms of such evaluation agreement. If You do not have an
+evaluation agreement with Veritas for the Licensed Software and if You are
+provided the Licensed Software for evaluation purposes, the following terms and
+conditions shall apply. Veritas grants to You a nonexclusive, temporary,
+royalty-free, non-assignable license to use the Licensed Software solely for
+internal non-production evaluation subject to the applicable Product Use Rights.
+Such evaluation license shall terminate (i) on the end date of the
+pre-determined evaluation period provided in the Licensed Software or (ii)
+sixty (60) days from the date of Your initial installation of the Licensed
+Software if no evaluation period is pre-determined in the Licensed Software
+("Evaluation Period"). The Licensed Software may not be transferred and is
+provided "AS IS" without warranty of any kind. You are solely responsible to
+take appropriate measures to back up Your system and take other measures to
+prevent any loss of files or data. The Licensed Software may contain an
+automatic disabling mechanism that prevents its use after a certain period of
+time. Upon expiration of the Licensed Software Evaluation Period, You will
+cease use of the Licensed Software and destroy all copies of the Licensed
+Software. All other terms and conditions of this License Agreement shall
+otherwise apply to Your evaluation of the Licensed Software as permitted herein.
+
+12.	U.S. GOVERNMENT COMMERCIAL LICENSE RIGHTS. This Section 12 applies only
+to U.S. Government entities. The Licensed Software is commercial computer
+software in accordance with FAR 12.212 and DFARS 227.7202. Any use,
+modification, reproduction, release, performance, display or disclosure of the
+Licensed Software or Documentation shall be solely in accordance with the terms
+of this License Agreement. Any additional rights can only be granted to a U.S.
+Government entity through a mutually acceptable written addendum to this
+License Agreement.
+
+13.	EXPORT REGULATIONS. The export or re-export of the Licensed Software and
+related technical data and services (collectively "Controlled Technology") is
+subject to applicable export laws and regulations including, but not limited to,
+the U.S. Export Administration Regulations, the European Union Council
+Regulations, and the Singapore Strategic Goods Control Act. The export or
+re-export of Controlled Technology in violation of the foregoing laws and
+regulations is strictly prohibited. Controlled Technology may also be subject
+to various import, distribution and/or use restrictions requiring action on Your
+behalf prior to use of the Controlled Technology. Controlled Technology is
+prohibited for export or re-export to Cuba, North Korea, Iran, Syria, Russia,
+Belarus, the Crimea Region of Ukraine, the Donetsk People's Republic (DNR)
+region of Ukraine and the Luhansk People's Republic (LNR) region of Ukraine and
+to any other country or region subject to relevant trade sanctions. Controlled
+Technology is further prohibited for export or re-export to any person or
+entity named on relevant lists maintained by the U.S. government (including, but
+not limited to, lists published by the U.S. Department of Commerce, the U.S.
+Department of State, and the U.S. Department of Treasury), in addition to lists
+published by the authorities in applicable foreign jurisdictions. You may not
+export any Controlled Technology for use in connection with chemical,
+biological, or nuclear weapons or missiles capable of delivering such weapons.
+Furthermore, You may not export any Controlled Technology to any military
+entity, or to any other entity for any military purpose, unless subject to a
+valid license specifically permitting such export. You agree to comply with all
+applicable export or import control laws and regulations, and You represent that
+You are not under the control of, located in, or a resident or national of any
+prohibited country or region and are not a prohibited person or entity.
+
+14.	DATA COLLECTION. Veritas collects and uses Collected Data to enable,
+optimize and provide the Licensed Software, Updates and Upgrades, and/or
+maintenance/support to You (and may engage third parties to do so as well), to
+administer and enforce its license agreements with You, to make recommendations
+regarding usage of the Licensed Software and other Veritas solutions, and/or to
+improve Veritas' products and services in general, including by reviewing
+aggregate data for statistical analyses. By installing and/or using the Licensed
+Software (including Updates and Upgrades), You agree that Veritas may, and You
+have obtained all the necessary consents and rights for Veritas to, collect,
+use, retain, disclose and/or process Collected Data for the purposes described
+in this License Agreement and in the applicable Veritas product privacy notices
+at: https://www.veritas.com/privacy. Please note that the use of the Licensed
+Software may be subject to data protection laws or regulations in certain
+jurisdictions. You are responsible for ensuring that Your use of the Licensed
+Software is in accordance with such laws or regulations.
+
+15.	CONFIDENTIALITY.
+
+15.1.	"Confidential Information" means the non-public information that is
+exchanged between the parties, provided that such information is: (a) identified
+as confidential at the time of disclosure by the disclosing party ("Discloser"),
+or (b) disclosed under circumstances that would indicate to a reasonable person
+that the information ought to be treated as confidential by the party receiving
+such information ("Recipient"), including all non-public information relating
+to, or derived from the Licensed Software, including technical features,
+benchmark results, or performance results. A Recipient may use the Confidential
+Information that it receives from the other party solely for the purpose of
+performing activities contemplated under this License Agreement. For a period
+of five (5) years following the applicable date of disclosure of any
+Confidential Information, a Recipient shall not disclose the Confidential
+Information to any third party.  A Recipient shall protect it by using the same
+degree of care, but no less than a reasonable degree of care, to prevent the
+unauthorized use, dissemination or publication as the Recipient uses to protect
+its own confidential information of a like nature. The Recipient may disclose
+the Confidential Information to its agents and independent contractors with a
+need to know in order to fulfil the purpose of this License Agreement, who have
+signed a nondisclosure agreement at least as protective of the Discloser's
+rights as this License Agreement.
+
+15.2.	This provision imposes no obligation upon a Recipient with respect to
+Confidential Information which: (a) is or becomes public knowledge through no
+fault of the Recipient; (b) was in the Recipient's possession before receipt
+from the Discloser and was not subject to a duty of confidentiality; (c) is
+rightfully received by the Recipient without any duty of confidentiality; (d) is
+disclosed generally to a third party by the Discloser without a duty of
+confidentiality on the third party; or (e) is independently developed by the
+Recipient without use of the Confidential Information. The Recipient may
+disclose the Discloser's Confidential Information as required by law or court
+order provided: (i) the Recipient promptly notifies the Discloser in writing of
+the requirement for disclosure; and (ii) discloses only as much of the
+Confidential Information as is required. Upon request from the Discloser or
+upon termination of the License Agreement, the Recipient shall return all
+Confidential Information and all copies, notes, summaries or extracts thereof
+or certify destruction of the same.
+
+15.3.	Each party will retain all right, title, and interest to such party's
+Confidential Information. The parties acknowledge that a violation of the
+Recipient's obligations with respect to Confidential Information may cause
+irreparable harm to the Discloser for which a remedy at law would be inadequate.
+Therefore, in addition to any and all remedies available at law, Discloser shall
+be entitled to seek an injunction or other equitable remedies in all legal
+proceedings in the event of any threatened or actual violation of any or all of
+the provisions hereof.
+
+16.	TERMINATION. This License Agreement shall terminate upon Your breach of
+any term contained herein. You may terminate this License Agreement for
+Veritas's material uncured breach which still remains uncured (if such breach is
+capable of being cured) thirty (30) days after receiving written notice of such
+breach; this does not apply to intellectual property claims or warranty claims
+for which an exclusive stated remedy is provided under this License Agreement.
+Upon termination due to Your breach or expiration of this License Agreement, You
+must immediately discontinue use of and destroy all copies of the Licensed
+Software in Your possession or control, including any master copy, and (within
+ten (10) days of Veritas' written request) certify in writing to Veritas through
+a corporate officer that all such copies have been destroyed.
+
+17.	SURVIVAL. The following provisions of this License Agreement survive
+termination of this License Agreement: Definitions, License Restrictions and any
+other restrictions on use of intellectual property, Ownership/Title, Warranty
+Disclaimers, Limitation of Liability, U.S. Government Commercial License Rights,
+Export Regulations, Data Collection, Confidentiality, Survival, and General and
+Your payment obligations accrued prior to termination, including payment
+obligations for outstanding Subscription Software orders. The license grants for
+Licensed Software and terms regarding Maintenance/Support purchased prior to
+termination shall survive such termination, except in the case of Veritas'
+termination for Your breach, as set forth above.
+
+18.	GENERAL.
+
+18.1.	ASSIGNMENT. You may not assign the rights granted hereunder or this
+License Agreement, in whole or in part and whether by operation of contract, law
+or otherwise, without Veritas' prior express written consent. Veritas may
+assign this License Agreement to any party.
+
+18.2.	COMPLIANCE WITH APPLICABLE LAW. You are solely responsible for Your
+compliance with, and You agree to comply with, all applicable laws, rules, and
+regulations in connection with Your use of the Licensed Software.
+
+18.3.	AUDIT. Veritas may audit Your use of the Licensed Software to verify
+Your usage complies with Your license agreements with Veritas, including
+without limitation through collection and use of Collected Data,
+self-certifications, on-site audits and/or audits done using a third-party
+auditor. On-site audits will be done upon reasonable notice and during normal
+business hours, but not more often than once each year. You shall cooperate
+with Veritas' information and reporting requests in connection with an audit
+and pay Veritas for any unauthorized deployments of Licensed Software
+disclosed by the audit. License fees for such over deployments will be invoiced
+to and paid by You at the undiscounted license list price in effect as of the
+audit completion date ("List Price"), unless otherwise mutually agreed. Veritas
+shall bear the costs of any such audit, except where the audit demonstrates
+that the List Price value of Your non-compliant usage exceeds five percent (5%)
+of the List Price value of Your compliant deployments. In such case, in
+addition to purchasing appropriate licenses for any over-deployed Licensed
+Software, You shall reimburse Veritas for the fees for the audit.
+
+18.4.	GOVERNING LAW; SEVERABILITY; WAIVER. If You are located in the Americas,
+this License Agreement will be governed by (i) the laws of the State of
+California, United States of America and (ii) to the extent controlling, federal
+laws of the United States. If You are located in China, this License Agreement
+will be governed by the laws of the Peoples Republic of China. Otherwise, this
+License Agreement will be governed by the laws of England and Wales. Such
+governing laws are exclusive of any provisions of the United Nations Convention
+on Contracts for Sale of Goods, including any amendments thereto, and without
+regard to principles of conflicts of law. If any provision of this License
+Agreement is found partly or wholly invalid or unenforceable under applicable
+law, such provision shall be reformed and/or construed, if possible, to be
+enforceable under applicable law; otherwise, such provision shall be excluded
+from this License Agreement and the remaining provisions of this License
+Agreement shall remain in full force and effect. A waiver of any breach or
+default under this License Agreement shall not constitute a waiver of any other
+subsequent breach or default.
+
+18.5.	THIRD PARTY PROGRAMS. This Licensed Software may contain third party
+software programs ("Third Party Programs") that are available under open source
+or free software licenses. This License Agreement does not alter any rights or
+obligations You may have under those open source or free software licenses.
+Notwithstanding anything to the contrary contained in such licenses, the
+disclaimer of warranties and the limitation of liability provisions in this
+License Agreement shall apply to such Third-Party Programs.
+
+18.6.	CUSTOMER SERVICE. Should You have any questions concerning this License
+Agreement, or if You desire to contact Veritas for any reason, please write to:
+(i) Veritas Technologies LLC, 2625 Augustine Drive, Santa Clara, California
+95054, U.S.A., (ii) Veritas Technologies (UK) Limited, 1320 Arlington Business
+Park, Theale, Reading, Berkshire RG7 4SA, United Kingdom, (iii) Veritas
+Technologies (Beijing) Co., Ltd., Haidian Branch, Tsinghua Science Park Bldg. 1,
+No. 1 Zhongguancun East Road, Suite 601 Tower B, Innovation Plaza, Beijing,
+Haidian District 100084, China.
+
+18.7.	ENTIRE AGREEMENT. This License Agreement and any related License
+Instrument are the complete and exclusive agreement between You and Veritas
+relating to the Licensed Software and supersede any previous or contemporaneous
+oral or written communications, proposals, and representations with respect to
+its subject matter. This License Agreement prevails over any conflicting or
+additional terms of any purchase order, ordering document, acknowledgement or
+confirmation or other document issued by You, even if signed and returned. This
+License Agreement may only be modified by a License Instrument that accompanies
+or follows this License Agreement.
+
+
+GLB ENT EULA v.5.0_STD_ENGLISH_3NOVEMBER2022
