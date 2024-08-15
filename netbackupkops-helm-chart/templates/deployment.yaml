@@ -2651,10 +2651,12 @@ spec:
       hostAliases:
       - ip: "172.16.249.224"
         hostnames:
-        - "PRDNBUMASTER"
+        - "prdnbumaster.bjj.lan"
+        - "prdnbumaster"
       - ip: "172.16.249.223"
         hostnames:
-        - "PRDNBUMEDIA"     
+        - "prdnbumedia.bjj.lan"
+        - "prdnbumedia"
       containers:
       - args:
         - --secure-listen-address=0.0.0.0:8443
@@ -2739,10 +2741,12 @@ spec:
       hostAliases:
       - ip: "172.16.249.224"
         hostnames:
-        - "PRDNBUMASTER"
+        - "prdnbumaster.bjj.lan"
+        - "prdnbumaster
       - ip: "172.16.249.223"
         hostnames:
-        - "PRDNBUMEDIA"
+        - "prdnbumedia.bjj.lan"
+        - "prdnbumedia"
       containers:
       - args:
         - /nbsetup/nbconfig/configkops.py
