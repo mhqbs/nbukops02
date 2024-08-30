@@ -2649,14 +2649,9 @@ spec:
         control-plane: controller-manager
     spec:
       hostAliases:
-      - ip: "172.16.249.224"
+      - ip: "10.133.0.109"
         hostnames:
-        - "prdnbumaster.bjj.lan"
-        - "prdnbumaster"
-      - ip: "172.16.249.223"
-        hostnames:
-        - "prdnbumedia.bjj.lan"
-        - "prdnbumedia"
+        - "dev-id-veritas-media-server-instance-01"
       containers:
       - args:
         - --secure-listen-address=0.0.0.0:8443
@@ -2739,14 +2734,9 @@ spec:
         component: netbackup
     spec:
       hostAliases:
-      - ip: "172.16.249.224"
+      - ip: "10.133.0.109"
         hostnames:
-        - "prdnbumaster.bjj.lan"
-        - "prdnbumaster
-      - ip: "172.16.249.223"
-        hostnames:
-        - "prdnbumedia.bjj.lan"
-        - "prdnbumedia"
+        - "dev-id-veritas-media-server-instance-01"
       containers:
       - args:
         - /nbsetup/nbconfig/configkops.py
