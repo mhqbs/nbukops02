@@ -20,8 +20,8 @@ nbsetup:
   replicas: 1
   containers:
     netbackup_config_pod:
-      nbprimaryserver: PRDNBUMASTER
-      nbsha256fingerprint: B0:AB:84:DC:00:DA:08:8A:BA:B1:B1:FF:0A:1D:DC:D4:0A:C3:F7:5C:DB:32:50:62:03:7F:94:3D:7C:06:56:E5
+      nbprimaryserver: dev-id-veritas-media-server-instance-01
+      nbsha256fingerprint: 9F:42:40:81:62:CF:0A:B1:75:A1:46:E0:51:BC:E9:CA:86:E1:05:D9:F6:17:95:AD:85:23:EF:66:CD:1D:6F:2B
       k8sCluster: dev-id-bks-gke-02
       k8sPort: 6443
       datamoverimage: asia-southeast2-docker.pkg.dev/joey-dev-project/dev-veritas/netbackupdatamover:dev-10.4
